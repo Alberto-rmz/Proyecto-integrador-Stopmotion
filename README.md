@@ -33,6 +33,9 @@ La animación se construye a partir de una secuencia dividida en las siguientes 
 
 Esta división permite planificar el movimiento de forma clara y progresiva.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6be28a14-ad9d-487e-aa1a-23f1250e0402" />
+
+
 ---
 
 ## Fundamento teórico
@@ -142,6 +145,11 @@ Configuración recomendada:
 - Estilo visual tipo stop motion  
 
 ---
+
+## Resultados esperados
+
+Animacion de tiburon girando y volviendo a su pose
+<img width="646" height="339" alt="image" src="https://github.com/user-attachments/assets/417746b1-a345-46be-bb41-c3866aeffb05" />
 
 ## Conclusión
 
