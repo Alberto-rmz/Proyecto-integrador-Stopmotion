@@ -91,12 +91,12 @@ Se dibujan las poses principales siguiendo la referencia:
 | Frame | Acción |
 |------|--------|
 | 1    | Posición inicial |
-| 20   | Inicio del giro |
-| 40   | Curvatura del cuerpo |
-| 60   | Giro medio |
-| 80   | Punto máximo |
-| 100  | Enderezando |
-| 120  | Nueva dirección |
+| 6   | Inicio del giro |
+| 11   | Curvatura del cuerpo |
+| 19   | Giro medio |
+| 27   | Punto máximo |
+| 35  | Enderezando |
+| 44  | Nueva dirección |
 
 En cada uno:
 
