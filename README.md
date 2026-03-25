@@ -138,3 +138,15 @@ Proceso:
 
 ```bash
 Render → Render Animation
+
+## Resultados esperados
+
+- Animación 2D coherente con la referencia  
+- Movimiento construido mediante dibujos secuenciales  
+- Estilo visual tipo stop motion  
+
+---
+
+## Conclusión
+
+La animación 2D con Grease Pencil en Blender permite aplicar principios clásicos de animación en un entorno digital. El uso de referencias visuales y la construcción por etapas facilitan la comprensión del movimiento, mientras que la técnica cuadro por cuadro permite un mayor control artístico.
