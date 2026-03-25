@@ -134,10 +134,6 @@ Configuración recomendada:
 - Codec: `H.264`  
 - Resolución: `1920x1080`  
 
-Proceso:
-
-```bash
-Render → Render Animation
 
 ## Resultados esperados
 
